@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Lab.html.code.2</title>
+  </head>
+  <body>
+        <p><a name="top"></a></p>
+        <p><a href="#Toyota">Toyota</a></p>
+        <p><a href="#Mercedes-Benz">Mercedes-Benz</a></p>
+        <p><a href="#BMW">BMW</a></p>
+        <p><a href="#Honda">Honda</a></p>
+        <p><a href="#Volkswagen">Volkswagen</a></p>
+        <p><a href="#Ford">Ford</a></p>
+        <p><a href="#Hyundai">Hyundai</a></p>
+        <p><a href="#Audi">Audi</a></p>
+        <p><a href="#Porsche">Porsche</a></p>
+        <p><a href="#Nissan">Nissan</a></p>
+        
+        <p><a name="Toyota">Toyota</a></p>
+        <p>
+        <a href="https://ru.wikipedia.org/wiki/Toyota" target="_blank">
+        <img src="https://kimuracars.com/ifiles/articles/018/toyota-logo.jpg" alt="Toyota" width="100" height="100" vspace="10" hspace="10" align="right">
+        </a>
+        Компания, намного обогнавшая по итогам 2012 года всех своих конкурентов. Безоговорочный король автомобильного мира, Toyota одним своим существованием творят автоисторию. Такие модели, как Toyota Prius и недавний дебютант Toyota Aqua устанавливают стандарты среди автомобилей с гибридными силовыми установками, а невероятный уровень их популярности подтверждает жизнеспособность экологичных машин. Не переставая с годами развиваться, этот японский бренд предлагает все более стильные автомобили, которые, при этом, остаются все такими же доступными для рядовых покупателей.
+
+
+        </p>
+
+        <p><a name="Mercedes-Benz">Mercedes-Benz</a></p>
+        <p>
+        <a href="https://ru.wikipedia.org/wiki/Mercedes-Benz" target="_blank">
+        <img src="https://kimuracars.com/ifiles/articles/018/mercedes-benz-logo.jpg" alt="Mercedes-Benz" width="100" height="100" vspace="10" hspace="10" align="left">
+        </a>
+        Главный конкурент BMW за звание лучшего производителя автомобилей премиум-класса. Уже более 125 лет Mercedes-Benz являются законодателями тенденций автомобильного рынка, выпуская стильные, мощные, безопасные и высококлассные автомобили. Девиз «Лучшее или ничего» максимально емко иллюстрирует идеологию этой немецкой компании.
+        </p>
+
+        <p><a name="BMW">BMW</a></p>
+        <p>
+        <a href="https://ru.wikipedia.org/wiki/BMW" target="_blank">
+        <img src="https://kimuracars.com/ifiles/articles/018/bmw-logo.jpg" alt=" BMW" width="100" height="100" vspace="10" hspace="10" align="right">
+        </a>
+        Немецкий производитель, чьи автомобили стали синоним стиля и качества. BMW на сегодняшний день остаются одни из лидирующих премиум-брендов в автомобильной индустрии. В 2012 году они стали одним из официальных партнеров Лондонской летней Олимпиады, предоставив для неё около 3000 машин. Компания всегда с интересом относилась к инновациям, что подтверждается серией i, ориентированной на мощные и экологичные авто.
+        </p>
+
+        <p><a name="Honda">Honda</a></p>
+        <p>
+        <a href="https://ru.wikipedia.org/wiki/Honda" target="_blank">
+        <img src="https://kimuracars.com/ifiles/articles/018/honda-logo.jpg" alt="Honda" width="100" height="100" vspace="10" hspace="10" align="left">
+        </a>
+        Рейтинг автомобильных брендов не мог обойтись без этой компании, выпускающей пользующиеся огромной популярностью во всем мире модели. Только один Honda Accord был признан в 2012 году во многих странах лучшим автомобилем! Кроме того, безопасность и надежность их продукции лишь добавляет дополнительные очки к и без того прекрасной репутации производителя. Несмотря на некоторые неудачи последних лет, таких, как, например, не совсем удавшееся поколение Honda Civic, компания продолжает радовать своих поклонников качественными автомобилями. 
+        </p>
+
+        <p><a name="Volkswagen">Volkswagen</a></p>
+        <p>
+        <a href="https://ru.wikipedia.org/wiki/Volkswagen" target="_blank">
+        <img src="https://kimuracars.com/ifiles/articles/018/volkswagen-logo.jpg" alt="Volkswagen" width="100" height="100" vspace="10" hspace="10" align="right">
+        </a>
+        Крупнейший немецкий производитель автомобилей, чей Volkswagen up! удостоился в 2012 году звания «Автомобиль года» (World Car of the Year). Создатели таких культурных феноменов, как Volkswagen Beetle и Volkswagen Type 2, до сих пор продолжают держать марку и ежегодно продают миллионы машин. Кроме того, на сегодняшний день они стали, пожалуй, самым экологичным автоконцерном в мире, все больше исследуя проблемы альтернативных вариантов энергии.
+        </p>
+
+        <p><a name="Ford">Ford</a></p>
+        <p>
+        <a href="https://ru.wikipedia.org/wiki/Ford" target="_blank">
+        <img src="https://kimuracars.com/ifiles/articles/018/ford-logo.jpg" alt="Ford" width="100" height="100" vspace="10" hspace="10" align="left">
+        </a>
+       Несмотря на глобальные проблемы, преследующие компанию с середины «нулевых», в 2012 году ей удалось показать отличный результат! Такие их модели, как Ford Focus и Ford Fusion продолжают продаваться огромными тиражами по всему миру и не теряют своей популярность, в том числе и на развивающихся рынках. Международное влияние компании, не прекращающей свою деятельность с 1903 года, все более возрастает, во многом благодаря их открытому подходу к клиентам.
+        </p>
+
+        <p><a name="Hyundai">Hyundai</a></p>
+        <p>
+        <a href="https://ru.wikipedia.org/wiki/Hyundai_Motor" target="_blank">
+        <img src="https://kimuracars.com/ifiles/articles/018/hyundai-logo.jpg" alt="Hyundai" width="100" height="100" vspace="10" hspace="10" align="right">
+        </a>
+        Лучший автомобильный бренд из Южной Кореи, носящий звание наиболее быстроразвивающегося производителя автомобилей в мире. С недавнего времени компания меняет ориентир с производства практичных машин на все более роскошные средства передвижения, стараясь при этом сделать их максимально доступными для покупателя. Их продукция продается более чем в 5000 автосалонов по всему миру.
+        </p>
+
+        <p><a name="Audi">Audi</a></p>
+        <p>
+        <a href="https://ru.wikipedia.org/wiki/Audi" target="_blank">
+        <img src="https://kimuracars.com/ifiles/articles/018/audi-logo.jpg" alt="Audi" width="100" height="100" vspace="10" hspace="10" align="left">
+        </a>
+       Ещё один немецкий автоконцерн, также входящий в Volkswagen Group. Ежегодно представляя свежие модели, внедряя новые технологии и увеличивая объемы продаж на десятки процентов на многих рынках, эта компания заработала себе репутацию производителей высококлассных европейских авто, прекрасно выполненных как с точки зрения дизайна, так и технологий.
+        </p>
+
+        <p><a name="Porsche">Porsche</a></p>
+        <p>
+        <a href="https://ru.wikipedia.org/wiki/Porsche" target="_blank">
+        <img src="https://kimuracars.com/ifiles/articles/018/porsche-logo.jpg" alt="Porsche" width="100" height="100" vspace="10" hspace="10" align="right">
+        </a>
+       Немецкий производитель элегантных спорткаров, чье имя уже прочно ассоциируется с качеством и надежностью. Сам факт того, что 70% автомобилей этой марки до сих пор на ходу впечатляет! На сегодняшний день этот бренд поставил перед собой задачу создавать одновременно максимально мощные, и при этом экологичные авто – первые шаги в этом направлении уже предприняты с гибридными Porsche Cayenne и Porsche 918 Spyder. С 2012 года компания входит в Volkswagen Group, и поэтому перед ней сейчас стоит ещё одно важно испытание – сохранить свою идентичность и уникальность, не поддавшись влиянию извне.
+        </p>
+
+        <p><a name="Nissan">Nissan</a></p>
+        <p>
+        <a href="https://ru.wikipedia.org/wiki/Nissan" target="_blank">
+        <img src="https://kimuracars.com/ifiles/articles/018/nissan-logo.jpg" alt="Nissan" width="100" height="100" vspace="10" hspace="10" align="left">
+        </a>
+        Начав свой путь ещё в далеком 1933 году, компания не перестает развиваться и удивлять мировую общественность инновациями. Такие проекты, как следующее поколение нью-йоркских такси, созданный специально для гонок Ле-Ман Nissan DeltaWing, электрокар Nissan Leaf, установивший новые стандарты для экологически-чистых авто и Nissan Juke, активно продающийся по всему миру – явное тому подтверждение.
+        </p>
+
+        <h4><a href="#top">Вверх</a></h4>
+  </body>
+</html>
