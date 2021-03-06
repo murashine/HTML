@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>Tablica</title>
+  <link href="tstyle07.css" rel="stylesheet">
+ </head>
+ <body>
+   <table border="1">
+   <tr>
+    <th>Месяц</th>
+    <th colspan="3">Январь</th>
+    <th colspan="3">Февраль</th>
+    <th colspan="3">Март</th>
+   </tr>
+   <tr>
+    <th>Варенье</th>
+    <th>Варенье 1</th>
+    <th>Варенье 2</th>
+    <th>Варенье 3</th>
+    <th>Варенье 1</th>
+    <th>Варенье 2</th>
+    <th>Варенье 3</th>
+    <th>Варенье 1</th>
+    <th>Варенье 2</th>
+    <th>Варенье 3</th>
+   </tr>
+    <tr>
+    <th>Сумма закупки материалов</th>
+    <th>25 000</th>
+    <th>35 000</th>
+    <th>12 000</th>
+    <th>21 000</th>
+    <th>44 000</th>
+    <th>26 000</th>
+    <th>42 000</th>
+    <th>23 000</th>
+    <th>14 000</th>
+   </tr>
+    <tr>
+    <th>Сумма заработной платы на выпуск</th>
+    <th>100 000</th>
+    <th>100 000</th>
+    <th>100 000</th>
+    <th>100 000</th>
+    <th>100 000</th>
+    <th>100 000</th>
+    <th>100 000</th>
+    <th>100 000</th>
+    <th>100 000</th>
+   </tr>
+    <tr>
+    <th>Сумма продажи</th>
+    <th>150 000</th>
+    <th>140 000</th>
+    <th>260 000</th>
+    <th>350 000</th>
+    <th>240 000</th>
+    <th>260 000</th>
+    <th>50 000</th>
+    <th>140 000</th>
+    <th>160 000</th>
+   </tr>
+    <tr>
+    <th>Сумма прибыли</th>
+    <th>55 000</th>
+    <th>54 000</th>
+    <th>25 000</th>
+    <th>67 000</th>
+    <th>32 000</th>
+    <th>12 000</th>
+    <th>54 000</th>
+    <th>65 000</th>
+    <th>14 000</th>
+   </tr>
+    <tr>
+    <th>Процент наценки</th>
+    <th>20%</th>
+    <th>20%</th>
+    <th>20%</th>
+    <th>20%</th>
+    <th>20%</th>
+    <th>20%</th>
+    <th>20%</th>
+    <th>20%</th>
+    <th>20%</th>
+   </tr>
+ </table>	
+ </body>
+</html>
